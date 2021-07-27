@@ -1,0 +1,8 @@
+{
+  "name": "Simple-Manga-List",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "8f02fc2f"
+}

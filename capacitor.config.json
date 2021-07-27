@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Simple-Manga-List",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
