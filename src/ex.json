@@ -1,0 +1,67 @@
+{
+  "ISBN:9782368529980":{
+    "bib_key":"ISBN:9782368529980",
+    "info_url":"https://openlibrary.org/books/OL32882091M/Demon_Slave_-_tome_1",
+    "preview":"noview",
+    "preview_url":"https://openlibrary.org/books/OL32882091M/Demon_Slave_-_tome_1",
+    "thumbnail_url":"https://covers.openlibrary.org/b/id/11514129-S.jpg",
+    "details":{
+      "type":{
+        "key":"/type/edition"
+      },
+      "title":"Demon Slave - tome 1",
+      "authors":[
+        {
+          "key":"/authors/OL8167992A",
+          "name":"Takahiro"
+        },
+        {
+          "key":"/authors/OL8641456A",
+          "name":"Pierre Giner"
+        },
+        {
+          "key":"/authors/OL8919558A",
+          "name":"Yohei Takemura"
+        }
+      ],
+      "publish_date":"Feb 11, 2021",
+      "source_records":[
+        "amazon:2368529985"
+      ],
+      "number_of_pages":208,
+      "publishers":[
+        "KUROKAWA"
+      ],
+      "isbn_10":[
+        "2368529985"
+      ],
+      "isbn_13":[
+        "9782368529980"
+      ],
+      "physical_format":"paperback",
+      "notes":{
+        "type":"/type/text",
+        "value":"Source title: Demon Slave - tome 1 (1) (French Edition)"
+      },
+      "covers":[
+        11514129
+      ],
+      "works":[
+        {
+          "key":"/works/OL24763782W"
+        }
+      ],
+      "key":"/books/OL32882091M",
+      "latest_revision":1,
+      "revision":1,
+      "created":{
+        "type":"/type/datetime",
+        "value":"2021-07-27T13:30:15.229166"
+      },
+      "last_modified":{
+        "type":"/type/datetime",
+        "value":"2021-07-27T13:30:15.229166"
+      }
+    }
+  }
+}
