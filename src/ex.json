@@ -1,67 +1,64 @@
 {
-  "ISBN:9782368529980":{
-    "bib_key":"ISBN:9782368529980",
-    "info_url":"https://openlibrary.org/books/OL32882091M/Demon_Slave_-_tome_1",
-    "preview":"noview",
-    "preview_url":"https://openlibrary.org/books/OL32882091M/Demon_Slave_-_tome_1",
-    "thumbnail_url":"https://covers.openlibrary.org/b/id/11514129-S.jpg",
-    "details":{
-      "type":{
-        "key":"/type/edition"
-      },
-      "title":"Demon Slave - tome 1",
-      "authors":[
-        {
-          "key":"/authors/OL8167992A",
-          "name":"Takahiro"
+  "kind":"books#volumes",
+  "totalItems":1,
+  "items":[
+    {
+      "kind":"books#volume",
+      "id":"-oc8zgEACAAJ",
+      "etag":"OxFTkxc6Zb4",
+      "selfLink":"https://www.googleapis.com/books/v1/volumes/-oc8zgEACAAJ",
+      "volumeInfo":{
+        "title":"Demon Slave Tome 1",
+        "publishedDate":"2021-02-11",
+        "industryIdentifiers":[
+          {
+            "type":"ISBN_10",
+            "identifier":"2368529985"
+          },
+          {
+            "type":"ISBN_13",
+            "identifier":"9782368529980"
+          }
+        ],
+        "readingModes":{
+          "text":false,
+          "image":false
         },
-        {
-          "key":"/authors/OL8641456A",
-          "name":"Pierre Giner"
+        "pageCount":208,
+        "printType":"BOOK",
+        "maturityRating":"NOT_MATURE",
+        "allowAnonLogging":false,
+        "contentVersion":"preview-1.0.0",
+        "panelizationSummary":{
+          "containsEpubBubbles":false,
+          "containsImageBubbles":false
         },
-        {
-          "key":"/authors/OL8919558A",
-          "name":"Yohei Takemura"
-        }
-      ],
-      "publish_date":"Feb 11, 2021",
-      "source_records":[
-        "amazon:2368529985"
-      ],
-      "number_of_pages":208,
-      "publishers":[
-        "KUROKAWA"
-      ],
-      "isbn_10":[
-        "2368529985"
-      ],
-      "isbn_13":[
-        "9782368529980"
-      ],
-      "physical_format":"paperback",
-      "notes":{
-        "type":"/type/text",
-        "value":"Source title: Demon Slave - tome 1 (1) (French Edition)"
+        "language":"fr",
+        "previewLink":"http://books.google.fr/books?id=-oc8zgEACAAJ&dq=isbn:9782368529980&hl=&cd=1&source=gbs_api",
+        "infoLink":"http://books.google.fr/books?id=-oc8zgEACAAJ&dq=isbn:9782368529980&hl=&source=gbs_api",
+        "canonicalVolumeLink":"https://books.google.com/books/about/Demon_Slave_Tome_1.html?hl=&id=-oc8zgEACAAJ"
       },
-      "covers":[
-        11514129
-      ],
-      "works":[
-        {
-          "key":"/works/OL24763782W"
-        }
-      ],
-      "key":"/books/OL32882091M",
-      "latest_revision":1,
-      "revision":1,
-      "created":{
-        "type":"/type/datetime",
-        "value":"2021-07-27T13:30:15.229166"
+      "saleInfo":{
+        "country":"FR",
+        "saleability":"NOT_FOR_SALE",
+        "isEbook":false
       },
-      "last_modified":{
-        "type":"/type/datetime",
-        "value":"2021-07-27T13:30:15.229166"
+      "accessInfo":{
+        "country":"FR",
+        "viewability":"NO_PAGES",
+        "embeddable":false,
+        "publicDomain":false,
+        "textToSpeechPermission":"ALLOWED",
+        "epub":{
+          "isAvailable":false
+        },
+        "pdf":{
+          "isAvailable":false
+        },
+        "webReaderLink":"http://play.google.com/books/reader?id=-oc8zgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus":"NONE",
+        "quoteSharingAllowed":false
       }
     }
-  }
+  ]
 }
