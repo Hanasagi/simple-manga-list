@@ -24,11 +24,11 @@ import { HTTP } from '@ionic-native/http';
 interface Props {
   alldata: any,
   data: any
-  get: any
+  /*get: any
   update: any
-  delete: any
+  delete: any*/
   handleChange: any,
-  create: any,
+  //create: any,
   changeDataState:any
 }
 
